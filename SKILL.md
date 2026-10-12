@@ -36,7 +36,7 @@ Before observing the result, record:
 - the metric or observable fact, when applicable;
 - the success/failure threshold, when one is meaningful.
 
-Place thresholds next to a relevant baseline from the same population whenever possible. Do not invent an isolated target without context.
+When using thresholds, place them next to a relevant baseline from the same population whenever possible. Do not invent an isolated target without context.
 
 ### 4. Minimal Intervention
 Make the smallest change sufficient to test the hypothesis.
