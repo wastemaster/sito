@@ -1,0 +1,3 @@
+interface:
+  display_name: "SITO"
+  short_description: "Verification-first workflow for difficult agent tasks"
