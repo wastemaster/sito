@@ -32,9 +32,9 @@ If the measure cannot distinguish them, treat the measure as broken and do not t
 
 ### 3. Precommitment
 Before observing the result, record:
-- the expected outcome;
-- the metric or observable fact;
-- the success/failure threshold.
+- the prediction, expectation, or decision criterion;
+- the metric or observable fact, when applicable;
+- the success/failure threshold, when one is meaningful.
 
 Place thresholds next to a relevant baseline from the same population whenever possible. Do not invent an isolated target without context.
 
