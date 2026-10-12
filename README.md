@@ -10,7 +10,8 @@ SITO is a compact workflow for agents that should do more than produce a plausib
 
 SITO follows the Agent Skills convention: the reusable instructions live in [`SKILL.md`](./SKILL.md).
 
-For systems that support Agent Skills, add or install this repository as a skill directory. The only required behavioral file is `SKILL.md`; [`agents/openai.yaml`](./agents/openai.yaml) provides optional OpenAI UI metadata.
+Use the repository root as the skill directory. SKILL.md is the entrypoint. The only required behavioral file is `SKILL.md`; [`agents/openai.yaml`](./agents/openai.yaml) provides optional OpenAI UI metadata.
+
 
 ## Usage
 
